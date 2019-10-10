@@ -1,1 +1,28 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Paracetamol"
+      "cost": "1500"
+      "stock": "25"
+      "usage": "Paracetamol is used to treat many conditions such as headache, muscle aches, arthritis, backache, toothaches, colds, and fevers. It relieves pain in mild arthritis but has no effect on the underlying inflammation and swelling of the joint."      
+    }
+    {
+      "id": 2,
+      "name": "Ibuprofin"
+      "cost": "2000"
+      "stock": "25"
+      "usage": "Ibuprofen is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, back pain, arthritis, menstrual cramps, or minor injury."
+    }
+        {
+      "id": 3,
+      "name": "Tramadol"
+      "cost": "2500"
+      "stock": "25"
+      "usage": "Tramadol is used to treat moderate to severe pain in adults."
+    }
+  ],
+  "profile": {
+    "name": "allanbil214"
+  }
+}
